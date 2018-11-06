@@ -1,0 +1,11 @@
+__pycache__/
+
+.ipynb_checkpoints/
+
+dist/
+
+notebook.tex
+
+*.py
+
+!img_util.py
